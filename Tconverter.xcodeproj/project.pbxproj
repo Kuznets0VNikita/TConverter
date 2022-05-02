@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F28F82B4282024AF003E8CB4 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F28F82B3282024AF003E8CB4 /* .gitignore */; };
 		F2E01ABE281BC3C400BE2D97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E01ABD281BC3C400BE2D97 /* AppDelegate.swift */; };
 		F2E01AC0281BC3C400BE2D97 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E01ABF281BC3C400BE2D97 /* SceneDelegate.swift */; };
 		F2E01AC2281BC3C400BE2D97 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E01AC1281BC3C400BE2D97 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F28F82B3282024AF003E8CB4 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		F2E01ABA281BC3C400BE2D97 /* Tconverter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tconverter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2E01ABD281BC3C400BE2D97 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F2E01ABF281BC3C400BE2D97 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		F2E01AB1281BC3C400BE2D97 = {
 			isa = PBXGroup;
 			children = (
+				F28F82B3282024AF003E8CB4 /* .gitignore */,
 				F2E01ABC281BC3C400BE2D97 /* Tconverter */,
 				F2E01ABB281BC3C400BE2D97 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F28F82B4282024AF003E8CB4 /* .gitignore in Resources */,
 				F2E01ACA281BC3C700BE2D97 /* LaunchScreen.storyboard in Resources */,
 				F2E01AC7281BC3C700BE2D97 /* Assets.xcassets in Resources */,
 				F2E01AC5281BC3C400BE2D97 /* Main.storyboard in Resources */,
